@@ -26,7 +26,7 @@ export default function ProductDetailsPage({ params }: props) {
     if (!product) {
         return <div className="py-25 text-center">Product not found</div>;
     }
-    return <div className="pt-25 min-h-screen w-11/12 mx-auto">
+    return <div className="py-25 min-h-screen w-11/12 mx-auto">
 
         <div className="max-w-3xl mx-auto">
             {/* go back button */}
