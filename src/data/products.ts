@@ -61,7 +61,7 @@ export const Products: Product[] = [
     title: "Denim Jacket",
     description: "Classic denim jacket with a vintage look, perfect for casual wear.",
     price: 69.99,
-    image: "https://images.unsplash.com/photo-1530039551005-2a4d2c1162d6?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1537465978529-d23b17165b3b?auto=format&fit=crop&w=600&q=80",
     category: "Clothing",
   },
   {
@@ -101,7 +101,7 @@ export const Products: Product[] = [
     title: "Office Chair",
     description: "Ergonomic office chair with lumbar support and adjustable height.",
     price: 149.0,
-    image: "https://images.unsplash.com/photo-1616627457989-bb8a4f83b6af?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1612372606404-0ab33e7187ee?auto=format&fit=crop&w=600&q=80",
     category: "Furniture",
   },
   {
@@ -125,7 +125,7 @@ export const Products: Product[] = [
     title: "Table Lamp",
     description: "Modern desk lamp with adjustable brightness levels.",
     price: 49.0,
-    image: "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1585128719715-46776b56a0d1?auto=format&fit=crop&w=600&q=80",
     category: "Home",
   },
   {
@@ -141,7 +141,7 @@ export const Products: Product[] = [
     title: "Backlit Keyboard",
     description: "Mechanical keyboard with customizable RGB lighting.",
     price: 110.0,
-    image: "https://images.unsplash.com/photo-1611222786386-3d2c0a1fdf8b?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1687583326917-530d867c8b2b?auto=format&fit=crop&w=600&q=80",
     category: "Electronics",
   },
   {
@@ -149,7 +149,7 @@ export const Products: Product[] = [
     title: "Camera",
     description: "DSLR camera with 24MP sensor and 4K video recording.",
     price: 599.0,
-    image: "https://images.unsplash.com/photo-1519183071298-a2962be96c63?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?auto=format&fit=crop&w=600&q=80",
     category: "Electronics",
   },
   {
@@ -157,7 +157,7 @@ export const Products: Product[] = [
     title: "Perfume",
     description: "Refreshing fragrance with floral and citrus notes.",
     price: 55.0,
-    image: "https://images.unsplash.com/photo-1585386959984-a41552265a0d?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1458538977777-0549b2370168?auto=format&fit=crop&w=600&q=80",
     category: "Beauty",
   },
   {
@@ -165,7 +165,7 @@ export const Products: Product[] = [
     title: "Cookware Set",
     description: "10-piece nonstick cookware set for all your cooking needs.",
     price: 199.0,
-    image: "https://images.unsplash.com/photo-1622206076117-d706be6aaafe?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1584990347449-fd98bc063110?auto=format&fit=crop&w=600&q=80",
     category: "Home",
   },
   {
@@ -173,7 +173,7 @@ export const Products: Product[] = [
     title: "Wireless Charger",
     description: "Fast wireless charger compatible with iPhone and Android.",
     price: 29.99,
-    image: "https://images.unsplash.com/photo-1606312619070-5f9ff97bc53b?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1615526675159-e248c3021d3f?auto=format&fit=crop&w=600&q=80",
     category: "Electronics",
   },
   {
@@ -197,7 +197,7 @@ export const Products: Product[] = [
     title: "Electric Kettle",
     description: "Quick-boil electric kettle with auto shut-off feature.",
     price: 40.0,
-    image: "https://images.unsplash.com/photo-1622206101920-3327762dd44f?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1643114786355-ff9e52736eab?auto=format&fit=crop&w=600&q=80",
     category: "Home",
   },
   {
@@ -205,7 +205,7 @@ export const Products: Product[] = [
     title: "Makeup Brush Set",
     description: "12-piece professional makeup brush kit.",
     price: 39.99,
-    image: "https://images.unsplash.com/photo-1616394584738-c8e2fbf7f6b0?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1620464003286-a5b0d79f32c2?auto=format&fit=crop&w=600&q=80",
     category: "Beauty",
   },
   {
@@ -229,7 +229,7 @@ export const Products: Product[] = [
     title: "Hoodie",
     description: "Comfortable fleece hoodie for chilly days.",
     price: 55.0,
-    image: "https://images.unsplash.com/photo-1602810318383-e8015f2eaf7a?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1517942420142-6a296f9ee4b1?auto=format&fit=crop&w=600&q=80",
     category: "Clothing",
   },
   {
@@ -237,7 +237,7 @@ export const Products: Product[] = [
     title: "Smart TV",
     description: "50-inch 4K Ultra HD Smart TV with HDR support.",
     price: 399.0,
-    image: "https://images.unsplash.com/photo-1593784991095-0d016bbd55dc?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1577979749830-f1d742b96791?auto=format&fit=crop&w=600&q=80",
     category: "Electronics",
   },
   {
@@ -245,7 +245,7 @@ export const Products: Product[] = [
     title: "Desk Organizer",
     description: "Multi-compartment wooden desk organizer for office supplies.",
     price: 34.99,
-    image: "https://images.unsplash.com/photo-1604328698692-6a78b5219940?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1758640920659-0bb864175983?auto=format&fit=crop&w=600&q=80",
     category: "Home",
   },
 ];
